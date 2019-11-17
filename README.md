@@ -1,8 +1,8 @@
-# WS2812FX-ESP32-web-example
+# WS2812FX-ESP32-segments-web-example
 Kitesurfer1404's WS2812FX example adapted for ESP32.
 
 ## What's this?
-This is just a new version of the [WS2812FX segments web example](https://github.com/kitesurfer1404/WS2812FX/tree/master/examples/ws2812fx_segments_web)adapted for ESP32.
+This is just a new version of the [WS2812FX segments web example](https://github.com/kitesurfer1404/WS2812FX/tree/master/examples/ws2812fx_segments_web) adapted for ESP32.
 
 ## Why was this necessary?
 The example available at the moment of publishing this new version was working fine for 1 single strip (usually 30 LEDs), but it was behaving very randomly when additional strips were attached.
